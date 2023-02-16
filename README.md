@@ -24,4 +24,16 @@ No any such accurate work has been done with both high level predictive analysis
 <li>A Machine learning model will then be fed with the already existing data about these disorders and then trained accordingly.</li> 
 <li>The trained model will then predict the results using the inputted data by the parents/users.</li>
 <li>In the web-app interface, we will integrate the ML Model and with the real-time data, it can predict if the child has a chance of getting certain disorders or not.</li>
-<h1></h1>
+<h1>WORKING</h1>
+The working of the system starts with the collection of data and selecting the important attributes. Then the required data is preprocessed into the required format. The data is then divided into two parts training and testing data. The algorithms are applied and the model is trained using the training data. The accuracy of the system is obtained by testing the system using the testing data. This system is implemented using the following modules.
+
+<li>Collection of Dataset</li>
+<li>Selection of attributes</li>
+<li>Data Pre-Processing</li>
+<li>Balancing of Data</li>
+<li>Training the Model using various classification algorithms</li>
+<li>Disease Prediction</li>
+<br>
+
+<h3>The GUI interface will be integrated soon!!</h3>
+<h4>THANK YOU!</h4>
