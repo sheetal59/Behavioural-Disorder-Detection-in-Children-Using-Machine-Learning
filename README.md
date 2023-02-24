@@ -2,7 +2,7 @@
 
 This project aims to create a real-time web app stimulation with a machine learning model where the parents can answer certain early diagnosable questions about ADHD, Dyslexia, Autism, etc. . And then by evaluating the results it can predict whether the kid is prone to such disorders. 
 <h1>Problem Statement</h1>
-A child having behavioral diseases like dyslexia, dyscalculia, dysgraphia, dyspraxia, autism, or ADHD might show very mild symptoms at early stages and hence makes it difficult for a proper diagnosis. 
+A child having behavioral diseases like dyslexia, dyscalculia, dysgraphia, dyspraxia, autism, and ADHD might show very mild symptoms at early stages and hence makes it difficult for a proper diagnosis. 
 Disruptive behavioral disorders are complicated and may include many different factors working in combination.
 At times some diagnosis methods may include:
                                           1. Diagnosis by a specialist service
