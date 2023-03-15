@@ -5,7 +5,7 @@ This project aims to create a real-time web app stimulation with a machine learn
 A child having behavioral diseases like dyslexia, dyscalculia, dysgraphia, dyspraxia, autism, and ADHD might show very mild symptoms at early stages and hence makes it difficult for a proper diagnosis. 
 Disruptive behavioral disorders are complicated and may include many different factors working in combination.
 At times some diagnosis methods may include:
-                                          1. Diagnosis by a specialist service
+                                          1. Diagnosis by a specialist.
                                           2. In-depth interviews with the parents and children.
                                           3. Assessing the child’s background, medical history, and symptoms.
 The above diagnosis methods do not provide an accurate diagnosis at an early age also parents do not consider going to a psychiatrist for some minor initial symptoms.
